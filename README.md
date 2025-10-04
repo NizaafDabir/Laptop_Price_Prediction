@@ -6,7 +6,9 @@
 
 ## 📄 Introduction
 
-This project predicts the **price of laptops** based on specifications such as brand, RAM, processor, storage, and display type. It uses **machine learning regression models** to estimate laptop prices accurately. The model is deployed via **Flask** and accessible online for interactive predictions.
+This project predicts the **price of laptops** based on specifications such as brand, RAM, processor, storage, and display type. It uses **machine learning regression models** to estimate laptop prices accurately. The model is deployed via **Flask** and accessible online for interactive predictions.  
+
+> **Note:** This project was referred and inspired by the **CampusX YouTube channel**: [Laptop Price Prediction Tutorial](https://www.youtube.com/watch?v=BgpM2IiCH6k). I followed the tutorial to learn the end-to-end workflow and implemented it with my own dataset and code.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -58,7 +60,7 @@ The dataset contains laptop specifications and their corresponding prices.
 
 - Built using **Flask**
 - Users can input laptop specifications and get predicted prices
-- Uses the trained pipeline (`pipe.pkl`) to make predictions
+- Uses the trained pipeline (`pipe.pkl`) to generate predictions
 - Templates include `index.html` for input and `result.html` for displaying predictions
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -74,15 +76,15 @@ This project is live and accessible at the following link:
 
 * Built a regression model pipeline to predict laptop prices.
 * Deployed the model with Flask to create an interactive web application.
-* Provides an easy-to-use interface for real-world laptop price prediction.
+* The project workflow was learned with the guidance of **CampusX YouTube tutorials**.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📚 References
 
-* Original Dataset from **Kaggle**
-* Scikit-learn Documentation: [https://scikit-learn.org](https://scikit-learn.org/)
-* Flask Documentation: [https://flask.palletsprojects.com](https://flask.palletsprojects.com)
+* CampusX YouTube Channel – [Laptop Price Prediction Tutorial](https://www.youtube.com/watch?v=BgpM2IiCH6k)  
+* Scikit-learn Documentation: [https://scikit-learn.org](https://scikit-learn.org/)  
+* Flask Documentation: [https://flask.palletsprojects.com](https://flask.palletsprojects.com)  
 * Render Deployment: [https://render.com](https://render.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizaaf-dabir-524596203/)  
