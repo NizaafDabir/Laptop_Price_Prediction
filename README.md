@@ -1,6 +1,6 @@
 # 💻 Laptop Price Prediction
 
-[![Live Project](https://img.shields.io/badge/Live_Project-Click_Here-blue)](https://laptop-price-prediction.onrender.com)
+[![Live Project](https://img.shields.io/badge/Live_Project-Click_Here-blue)](https://laptop-price-prediction-dxld.onrender.com/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -68,7 +68,7 @@ The dataset contains laptop specifications and their corresponding prices.
 ## 🔗 Deployment
 
 This project is live and accessible at the following link:  
-👉 **[Live](https://laptop-price-prediction.onrender.com)**
+👉 **[Live](https://laptop-price-prediction-dxld.onrender.com/)**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -89,3 +89,4 @@ This project is live and accessible at the following link:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizaaf-dabir-524596203/)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NizaafDabir)
+
